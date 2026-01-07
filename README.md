@@ -17,6 +17,7 @@ Ein vielseitiges Roblox Executor-Skript mit Admin-Funktionen, Movement-Modifikat
 **Script:** `loadstring(game:HttpGet('https://raw.githubusercontent.com/RBX-Systems/RBXploit/refs/heads/main/exploit'))()`
 
 **Key:** `im Discord`
+
 **Discord:** `https://discord.gg/tVsah9sCdJ`
 
 **Hinweis:** Nur für Executor-Umgebungen, Nutzung auf eigenes Risiko.
