@@ -1,7 +1,4 @@
 # RBXploit
-loadstring(game:HttpGet('https://raw.githubusercontent.com/RBX-Systems/RBXploit/refs/heads/main/exploit'))()
-
-# RBXploit
 
 Ein vielseitiges Roblox Executor-Skript mit Admin-Funktionen, Movement-Modifikationen, Visuals und Combat-Features.
 
